@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My GitHub! 👋
 
-### Hi there! I'm [Your Name] 👨‍💻
+### Hi there! I'm Praveen kannan👨‍💻
 
 I'm a passionate **Data Scientist | MLOps Engineer | Cloud Enthusiast** who loves working with **AI, ML, Automation, and Data Analytics**. 
 
@@ -20,18 +20,6 @@ I'm a passionate **Data Scientist | MLOps Engineer | Cloud Enthusiast** who love
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-
----
-
-## 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 📬 Connect With Me
 
