@@ -1,5 +1,3 @@
-![Welcome Banner](https://your-image-url.com/banner.png)  
-
 # 🚀 Welcome to My GitHub! 👋
 
 ### Hi there! I'm Praveen kannan👨‍💻
