@@ -22,7 +22,7 @@ I'm a passionate **Data Scientist | MLOps Engineer | Cloud Enthusiast** who love
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-kannan-a900b7180/)    
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white)](https://praveenkannan.my.canva.site/)  
 
 🚀 Let's connect and build something amazing together!
 
